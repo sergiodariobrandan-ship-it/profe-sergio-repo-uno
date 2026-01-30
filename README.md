@@ -1,4 +1,4 @@
-# profe-sergio
+# repositorio 1 del profe-sergio -curso de github
 Primer repo creado en github
 
 ## descripcion 
