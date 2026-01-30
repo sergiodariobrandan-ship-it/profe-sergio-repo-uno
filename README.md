@@ -2,4 +2,4 @@
 Primer repo creado en github
 
 ## descripcion 
-Este es un repo de profesergio, creado solo para el curso de git
+Este es un repo del profesergio, creado solo para el curso de git
